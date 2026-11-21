@@ -1,0 +1,3 @@
+Images des badges wordmark des boutiques d'origine (Prélakay Import).
+Les noms de fichier sont ceux de data/import/badges.json (shein.png, aliexpress.png, temu.png, amazon.png).
+Tant qu'une image manque, le badge s'affiche en texte : [SHEIN].
