@@ -47,3 +47,10 @@ Thumbs.db
 
 # local-only Claude Code settings (machine-specific permissions)
 .claude/settings.local.json
+
+# heavy source assets not served by the site (kept locally, not in git)
+# generic stock mockup templates — not referenced anywhere in app/ or README.md
+_README/images-from-mockup/
+public/images/image-from-mockup/
+# PWA account-avatar picker set (53MB) — belongs to app.prelakay.com, not the landing
+public/images/avatar/3D Avatars/

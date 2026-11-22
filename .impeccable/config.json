@@ -1,0 +1,14 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "overused-font",
+        "value": "fraunces",
+        "createdAt": "2026-11-21T23:54:23.582Z",
+        "reason": "docs/design-prelakay.md §3: Fraunces is the project's brand heading typeface, a deliberate ✅ design-system decision, not a generic default"
+      }
+    ]
+  }
+}
